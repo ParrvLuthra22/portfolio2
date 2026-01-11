@@ -16,12 +16,7 @@ export default function Footer() {
                     <ul className="space-y-2">
                         <li>
                             <a href="mailto:parrv.luthra2024@nst.rishihood.edu.in" className="text-neutral-300 hover:text-white transition-colors">
-                                parrv.luthra2024@nst.rishihood.edu.in
-                            </a>
-                        </li>
-                        <li>
-                            <a href="tel:+919625789901" className="text-neutral-300 hover:text-white transition-colors">
-                                +91 9625789901
+                                parrvcodes@gmail.com
                             </a>
                         </li>
                     </ul>
